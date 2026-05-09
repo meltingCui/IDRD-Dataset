@@ -4,7 +4,7 @@ Insulator Defect Recognition Dataset for UAV-based power line inspection
 
 ## Dataset Description
 
-This dataset contains annotated images for insulator defect segmentation, including three categories: insulator, broken, and pollution-flashover.
+This dataset contains pixel-level annotated images for insulator defect recognition and segmentation, including three categories: insulator, broken, and pollution-flashover.
 
 ## Download
 
